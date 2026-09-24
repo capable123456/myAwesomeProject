@@ -1,3 +1,4 @@
 1. Initialize new repo
 2. Create first commit
 3. Category: Personal-Urgent
+4. fetch, pull, push
